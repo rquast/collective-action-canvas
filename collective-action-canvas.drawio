@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-05T02:32:51.898Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="0I7MCxjjbyyY-a21jZ8N" version="12.4.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-05T02:41:01.346Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="wdvfvwtOmuzUPSLnrv5f" version="12.4.8" type="github">
   <diagram name="Page-1" id="dd472eb7-4b8b-5cd9-a60b-b15522922e76">
     <mxGraphModel dx="3162" dy="1606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -61,8 +61,8 @@
         <mxCell id="tnU87jmQ8Kyi_5LEnrwg-8" value="&lt;b&gt;WHY?&lt;/b&gt;&lt;br&gt;(the people)" style="verticalLabelPosition=middle;verticalAlign=top;html=1;shape=mxgraph.basic.heart;fontSize=12;align=center;labelPosition=center;spacingTop=14;fillColor=#ffffff;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="477.5" y="364.07" width="135" height="132.94" as="geometry"/>
         </mxCell>
-        <mxCell id="5eW8BLqzjb0u9Z2Ic-Rn-44" value="What kind of personal values do participants want to gain from working in this collective?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#999999;spacingLeft=8;" vertex="1" parent="1">
-          <mxGeometry y="60" width="350" height="40" as="geometry"/>
+        <mxCell id="5eW8BLqzjb0u9Z2Ic-Rn-44" value="What interests do participants have and want to use or improve by working in this collective? What social and cultural capital can be used and shared?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#999999;spacingLeft=8;" vertex="1" parent="1">
+          <mxGeometry y="60" width="350" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="5eW8BLqzjb0u9Z2Ic-Rn-45" value="How do we keep participants engaged to continuously improve their interest in this collective?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#999999;spacingLeft=8;" vertex="1" parent="1">
           <mxGeometry x="360" y="60" width="370" height="40" as="geometry"/>
