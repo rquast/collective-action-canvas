@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-05T02:00:33.270Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="O8J1aWbcAdgWabv_A7FV" version="12.4.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-05T02:17:26.681Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="k78HVQlWEtO-sxSYVsyU" version="12.4.8" type="github">
   <diagram name="Page-1" id="dd472eb7-4b8b-5cd9-a60b-b15522922e76">
     <mxGraphModel dx="3162" dy="1557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="5eW8BLqzjb0u9Z2Ic-Rn-2" value="&lt;p style=&quot;line-height: 220%&quot;&gt;CULTURE&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fontSize=16;fontStyle=1;spacingLeft=8;spacingTop=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="730" width="370" height="280" as="geometry"/>
         </mxCell>
-        <mxCell id="5eW8BLqzjb0u9Z2Ic-Rn-3" value="&lt;p style=&quot;line-height: 220%&quot;&gt;CAPABILITY&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fontSize=16;fontStyle=1;spacingLeft=90;spacingTop=0;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="5eW8BLqzjb0u9Z2Ic-Rn-3" value="&lt;p style=&quot;line-height: 220%&quot;&gt;CAPABILITY&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fontSize=16;fontStyle=1;spacingLeft=86;spacingTop=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="650" y="280" width="450" height="290" as="geometry"/>
         </mxCell>
         <mxCell id="5eW8BLqzjb0u9Z2Ic-Rn-15" value="COVERAGE %" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#CCCCCC;strokeWidth=2;" vertex="1" parent="1">
@@ -61,11 +61,20 @@
         <mxCell id="tnU87jmQ8Kyi_5LEnrwg-8" value="&lt;b&gt;WHY?&lt;/b&gt;&lt;br&gt;(the people)" style="verticalLabelPosition=middle;verticalAlign=top;html=1;shape=mxgraph.basic.heart;fontSize=12;align=center;labelPosition=center;spacingTop=14;fillColor=#ffffff;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="477.5" y="364.07" width="135" height="132.94" as="geometry"/>
         </mxCell>
-        <mxCell id="5eW8BLqzjb0u9Z2Ic-Rn-44" value="What of personal values do participants want to gain from working in this collective?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#000000;spacingLeft=8;" vertex="1" parent="1">
+        <mxCell id="5eW8BLqzjb0u9Z2Ic-Rn-44" value="What of personal values do participants want to gain from working in this collective?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#999999;spacingLeft=8;" vertex="1" parent="1">
           <mxGeometry y="60" width="350" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="5eW8BLqzjb0u9Z2Ic-Rn-45" value="How do we keep participants engaged enough to continuously improve their interest in this collective?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#000000;spacingLeft=8;" vertex="1" parent="1">
+        <mxCell id="5eW8BLqzjb0u9Z2Ic-Rn-45" value="How do we keep participants engaged to continuously improve their interest in this collective?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#999999;spacingLeft=8;" vertex="1" parent="1">
           <mxGeometry x="360" y="60" width="370" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="5eW8BLqzjb0u9Z2Ic-Rn-46" value="What are the cultural values of this collective and how do we achieve them?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#999999;spacingLeft=8;" vertex="1" parent="1">
+          <mxGeometry x="730" y="60" width="360" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="5eW8BLqzjb0u9Z2Ic-Rn-47" value="What actionalble feedback do we collect?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#999999;spacingLeft=8;" vertex="1" parent="1">
+          <mxGeometry y="340" width="340" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="5eW8BLqzjb0u9Z2Ic-Rn-48" value="What is our resource capability for actionable work?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#999999;spacingLeft=8;" vertex="1" parent="1">
+          <mxGeometry x="730" y="340" width="370" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
