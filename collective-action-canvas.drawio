@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-05T06:41:40.732Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="xIn1MaXFHSmxBIoP0WPj" version="12.4.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-05T06:46:06.894Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="huDFUybqRLnsXEe9jZhk" version="12.4.8" type="github">
   <diagram name="Page-1" id="dd472eb7-4b8b-5cd9-a60b-b15522922e76">
     <mxGraphModel dx="2062" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -104,10 +104,10 @@
           <mxGeometry x="359.99" y="231" width="370" height="369" as="geometry"/>
         </mxCell>
         <mxCell id="5eW8BLqzjb0u9Z2Ic-Rn-27" value="&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;b style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;HOW?&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#999999&quot;&gt;How do we do it?&lt;/font&gt;" style="html=1;verticalLabelPosition=middle;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#000000;shadow=0;dashed=0;shape=mxgraph.ios7.icons.settings;fontColor=#CCCCCC;labelPosition=center;spacingTop=28;" parent="1" vertex="1">
-          <mxGeometry x="410" y="300" width="270" height="258.01" as="geometry"/>
+          <mxGeometry x="447.5" y="320" width="195" height="198.5" as="geometry"/>
         </mxCell>
-        <mxCell id="bje2vU5STpZ5-tJQmUDJ-8" value="&lt;b style=&quot;white-space: normal&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;WHY?&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;font color=&quot;#999999&quot; style=&quot;white-space: normal&quot;&gt;Why do we care?&lt;/font&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.heart;strokeWidth=2;labelPosition=center;align=center;" vertex="1" parent="1">
-          <mxGeometry x="471.87" y="371.5" width="146.26" height="127" as="geometry"/>
+        <mxCell id="bje2vU5STpZ5-tJQmUDJ-8" value="&lt;b style=&quot;white-space: normal&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;WHY?&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;font color=&quot;#999999&quot; style=&quot;white-space: normal&quot;&gt;Why do we care?&lt;/font&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.heart;strokeWidth=2;labelPosition=center;align=center;whiteSpace=wrap;spacingTop=-54;" vertex="1" parent="1">
+          <mxGeometry x="456" y="449.5" width="178" height="150" as="geometry"/>
         </mxCell>
         <mxCell id="bje2vU5STpZ5-tJQmUDJ-29" value="GROUP/TEAM" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=10;align=left;verticalAlign=middle;spacingLeft=8;" vertex="1" parent="1">
           <mxGeometry x="541" y="20.25" width="399" height="32.5" as="geometry"/>
