@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-05T06:46:06.894Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="huDFUybqRLnsXEe9jZhk" version="12.4.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-05T06:50:06.529Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="2QGkMxYU0oXLHeVpxfXS" version="12.4.8" type="github">
   <diagram name="Page-1" id="dd472eb7-4b8b-5cd9-a60b-b15522922e76">
     <mxGraphModel dx="2062" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -31,29 +31,29 @@
         <mxCell id="5eW8BLqzjb0u9Z2Ic-Rn-19" value="COVERAGE %" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#CCCCCC;strokeWidth=2;fontSize=10;align=center;" parent="1" vertex="1">
           <mxGeometry x="269.99" y="80" width="90" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="5eW8BLqzjb0u9Z2Ic-Rn-44" value="What interests do participants have and want to use or improve by working in this collective? What social and cultural capital can be created or shared?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#999999;spacingLeft=8;spacingRight=8;" parent="1" vertex="1">
-          <mxGeometry x="10" y="140" width="350" height="180" as="geometry"/>
+        <mxCell id="5eW8BLqzjb0u9Z2Ic-Rn-44" value="What interests do participants have and want to use or improve by working in this collective? What social and cultural capital can be created or shared?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#999999;spacingLeft=8;spacingRight=8;" parent="1" vertex="1">
+          <mxGeometry x="10" y="130" width="350" height="190" as="geometry"/>
         </mxCell>
-        <mxCell id="5eW8BLqzjb0u9Z2Ic-Rn-45" value="How do we keep participants engaged to continuously improve their interest in this collective?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#999999;spacingLeft=8;spacingRight=8;" parent="1" vertex="1">
-          <mxGeometry x="360" y="140" width="370" height="110" as="geometry"/>
+        <mxCell id="5eW8BLqzjb0u9Z2Ic-Rn-45" value="How do we keep participants engaged to continuously improve their interest in this collective?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#999999;spacingLeft=8;spacingRight=8;" parent="1" vertex="1">
+          <mxGeometry x="360" y="130" width="370" height="120" as="geometry"/>
         </mxCell>
-        <mxCell id="5eW8BLqzjb0u9Z2Ic-Rn-46" value="What are the cultural values of this collective and how do we achieve them?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#999999;spacingLeft=8;spacingRight=8;" parent="1" vertex="1">
-          <mxGeometry x="730" y="140" width="360" height="180" as="geometry"/>
+        <mxCell id="5eW8BLqzjb0u9Z2Ic-Rn-46" value="What are the cultural values of this collective and how do we achieve them?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#999999;spacingLeft=8;spacingRight=8;" parent="1" vertex="1">
+          <mxGeometry x="730" y="130" width="360" height="190" as="geometry"/>
         </mxCell>
-        <mxCell id="5eW8BLqzjb0u9Z2Ic-Rn-47" value="Both internally and externally; what actionable and measurable feedback do we collect and how is it used to improve the collective?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#999999;spacingLeft=8;" parent="1" vertex="1">
-          <mxGeometry x="10" y="380" width="350" height="170" as="geometry"/>
+        <mxCell id="5eW8BLqzjb0u9Z2Ic-Rn-47" value="Both internally and externally; what actionable and measurable feedback do we collect and how is it used to improve the collective?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#999999;spacingLeft=8;" parent="1" vertex="1">
+          <mxGeometry x="10" y="370" width="350" height="180" as="geometry"/>
         </mxCell>
-        <mxCell id="5eW8BLqzjb0u9Z2Ic-Rn-48" value="What is our resource capability for all work that needs to be done?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#999999;spacingLeft=8;spacingRight=8;" parent="1" vertex="1">
-          <mxGeometry x="730" y="380" width="360" height="170" as="geometry"/>
+        <mxCell id="5eW8BLqzjb0u9Z2Ic-Rn-48" value="What is our resource capability for all work that needs to be done?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#999999;spacingLeft=8;spacingRight=8;" parent="1" vertex="1">
+          <mxGeometry x="730" y="370" width="360" height="180" as="geometry"/>
         </mxCell>
-        <mxCell id="5eW8BLqzjb0u9Z2Ic-Rn-49" value="How do we measure the effectiveness of this collective?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#999999;spacingLeft=8;spacingRight=8;" parent="1" vertex="1">
-          <mxGeometry x="10" y="612.5" width="350" height="177.5" as="geometry"/>
+        <mxCell id="5eW8BLqzjb0u9Z2Ic-Rn-49" value="How do we measure the effectiveness of this collective?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#999999;spacingLeft=8;spacingRight=8;" parent="1" vertex="1">
+          <mxGeometry x="10" y="610" width="350" height="180" as="geometry"/>
         </mxCell>
-        <mxCell id="5eW8BLqzjb0u9Z2Ic-Rn-50" value="Who is sponsoring our collective? How do we retain or increase sponsorship?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#999999;spacingLeft=8;spacingRight=8;" parent="1" vertex="1">
-          <mxGeometry x="360" y="612.5" width="370" height="177.5" as="geometry"/>
+        <mxCell id="5eW8BLqzjb0u9Z2Ic-Rn-50" value="Who is sponsoring our collective? How do we retain or increase sponsorship?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#999999;spacingLeft=8;spacingRight=8;" parent="1" vertex="1">
+          <mxGeometry x="360" y="610" width="370" height="180" as="geometry"/>
         </mxCell>
-        <mxCell id="5eW8BLqzjb0u9Z2Ic-Rn-51" value="How do we project power? What do we do to communicate with and influence external entities?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#999999;spacingLeft=8;spacingRight=8;" parent="1" vertex="1">
-          <mxGeometry x="730" y="612.5" width="360" height="177.5" as="geometry"/>
+        <mxCell id="5eW8BLqzjb0u9Z2Ic-Rn-51" value="How do we project power? What do we do to communicate with and influence external entities?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#999999;spacingLeft=8;spacingRight=8;" parent="1" vertex="1">
+          <mxGeometry x="730" y="610" width="360" height="180" as="geometry"/>
         </mxCell>
         <mxCell id="bje2vU5STpZ5-tJQmUDJ-10" value="" style="shape=mxgraph.signs.safety.handle_with_care;html=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
           <mxGeometry x="834" y="100" width="28" height="28" as="geometry"/>
